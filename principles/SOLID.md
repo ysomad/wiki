@@ -1,0 +1,6 @@
+# [SOLID](https://gist.github.com/ysomad/108ccd809ff17ec5137b38b95e7bb3c5)
+1. Single responsibility principle (принцип единственной ответственности)
+2. Open-closed principle (принцип открытости-закрытости)
+3. Liskov substitution principle (принцип подстановки Лисков)
+4. Interface segregation principle (принцип разделения интерфейсов)
+5. Dependency inversion principle (принцип инверсии зависимостей)
