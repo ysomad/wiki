@@ -7,3 +7,4 @@
   * [Golang](https://github.com/ysomad/wiki/blob/main/langs/golang/README.md)
 * [Принципы программирования](https://github.com/ysomad/wiki/blob/main/principles/README.md)
   * [SOLID](https://github.com/ysomad/wiki/blob/main/principles/SOLID.md)
+* [Алгоритмы и структуры данных](https://github.com/ysomad/wiki/blob/main/algorithms_and_data_structures/README.md)
