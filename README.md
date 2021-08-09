@@ -4,6 +4,7 @@
 * [Базы данных](https://github.com/ysomad/wiki/blob/main/databases/README.md)
 * [Языки программирования](https://github.com/ysomad/wiki/blob/main/langs/README.md)
   * [Python](https://github.com/ysomad/wiki/blob/main/langs/python/README.md)
+    * [GIL](https://github.com/ysomad/wiki/blob/main/langs/python/GIL.md)
   * [Golang](https://github.com/ysomad/wiki/blob/main/langs/golang/README.md)
 * [Принципы программирования](https://github.com/ysomad/wiki/blob/main/principles/README.md)
   * [SOLID](https://github.com/ysomad/wiki/blob/main/principles/SOLID.md)
