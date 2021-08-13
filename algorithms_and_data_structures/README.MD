@@ -2,8 +2,6 @@
 
 # Стеки и очереди
 
-[tproger](https://tproger.ru/translations/stacks-and-queues-for-beginners/)
-
 ## Стек (LIFO)
 Стек - это коллекция, элементы которой получают по принципу "последний вошел, первый вышел" (Last-In-First-Out или `LIFO`).
 
