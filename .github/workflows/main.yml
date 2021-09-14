@@ -1,0 +1,13 @@
+name: CI
+on: pull_request
+
+jobs:
+  misspell:
+    name: runner / misspell
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: reviewdog/action-misspell@v1
+        with:
+          locale: "US"
+          fail_on_error: true
