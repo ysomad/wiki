@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "46f092d19c84f5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "158ec655c765ce09",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc987152aee05916",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe35c48db090b25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bada8e1b2ebea5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ea4ed1a14352852",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "151876d158c9a23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac990197d6eb0e55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef81684610ce8173",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "158ec655c765ce09",
+  "lastOpenFiles": [
+    "programming_principles/Programming principles.md",
+    "algorithms_and_data_structures/data_structures/Stack and Queue(LIFO AND FIFO).md",
+    "algorithms_and_data_structures/Algorithms and Data structures.md",
+    "databases/sql/Transactions.md",
+    "databases/sql/SQL.md",
+    "databases/sql/Indexes.md",
+    "databases/Databases.md",
+    "programming_languages/Golang/Popular packages.md",
+    "programming_languages/Golang/Golang.md",
+    "programming_languages/Python/Django/Django.md"
+  ]
+}

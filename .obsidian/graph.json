@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:programming_principles",
+      "color": {
+        "a": 1,
+        "rgb": 13134502
+      }
+    },
+    {
+      "query": "path:git",
+      "color": {
+        "a": 1,
+        "rgb": 14377313
+      }
+    },
+    {
+      "query": "path:databases",
+      "color": {
+        "a": 1,
+        "rgb": 2538207
+      }
+    },
+    {
+      "query": "path:programming_languages",
+      "color": {
+        "a": 1,
+        "rgb": 15779727
+      }
+    },
+    {
+      "query": "path:algorithms_and_data_structures",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:web_servers",
+      "color": {
+        "a": 1,
+        "rgb": 5460434
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 0.393162393162393,
+  "lineSizeMultiplier": 1.3982905982906,
+  "collapse-forces": false,
+  "centerStrength": 0.634831460674157,
+  "repelStrength": 10.1123595505618,
+  "linkStrength": 0.460674157303371,
+  "linkDistance": 30,
+  "scale": 1.196116935310446,
+  "close": false
+}

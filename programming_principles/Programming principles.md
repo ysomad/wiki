@@ -1,4 +1,4 @@
 # Принципы программирования
-* [[Base principles]]
-* [[OOP principles]]
-* [[SOLID]]
+- [[Base principles]]
+- [[OOP principles]]
+- [[SOLID]]

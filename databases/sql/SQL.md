@@ -1,3 +1,3 @@
 # SQL базы данных
-* [[Indexes]]
-* [[Transactions]]
+- [[Indexes]]
+- [[Transactions]]
